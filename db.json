@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "name": "teste555",
+      "budget": "55555",
+      "category": {
+        "id": "1",
+        "name": "Infrastructure"
+      },
+      "cost": 50,
+      "services": [
+        {
+          "name": "A ERA DO FUTURO 2 - GC",
+          "cost": "50.00",
+          "description": "oioioio",
+          "id": "11bff553-ca6f-496f-a29e-0411202c3f54"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Alessandro",
+      "budget": "12345685",
+      "category": {
+        "id": "3",
+        "name": "Planning"
+      },
+      "cost": 53241,
+      "services": [
+        {
+          "name": "teste1",
+          "cost": "53241",
+          "description": "1231321",
+          "id": "05411654-1468-4c85-bc03-91fe3d6cbc69"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infrastructure"
+    },
+    {
+      "id": 2,
+      "name": "Development"
+    },
+    {
+      "id": 3,
+      "name": "Planning"
+    },
+    {
+      "id": 4,
+      "name": "Design"
+    }
+  ]
+}
